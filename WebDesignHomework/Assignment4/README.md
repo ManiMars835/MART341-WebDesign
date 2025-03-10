@@ -1,4 +1,4 @@
-z<h2> Questions and answers </h2>
+<h2> Questions and answers </h2>
 
 Question: Explain how web browsers function. How do web browsers really work behind the scenes?
 
