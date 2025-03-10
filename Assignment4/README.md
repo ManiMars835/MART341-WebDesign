@@ -1,5 +1,10 @@
-<h2> Questions and answers </h2>
+<html>
 
+<head>  
+<h2> Questions and answers </h2>
+</head>
+
+<body>
 Question: Explain how web browsers function. How do web browsers really work behind the scenes?
 
 Answer: A browser is a type of software that allows users to view content from a server. It does this with a layout and interface in order to properly place and display the functions of the site, while behind the scenes there is a programming language used so the content on the site has instruction and reason for looking a certain way or saying a certain thing.
@@ -23,3 +28,8 @@ Answer:
 2. Root Element
 3. Head Element
 4. Body Element
+
+</body>
+
+
+</html>
