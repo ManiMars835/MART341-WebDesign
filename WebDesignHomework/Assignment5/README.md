@@ -1,0 +1,1 @@
+So far my favorite class I've had was a college course for horror and the history of horror cinematography. I liked it so much due to how special horror is for me and how much I was able to learn about the history of horror!
