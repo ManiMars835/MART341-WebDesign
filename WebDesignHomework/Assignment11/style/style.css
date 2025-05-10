@@ -1,0 +1,66 @@
+ body {background-color: rgb(255, 216, 216)}
+    h1, h3, blockquote {color: rgb(26, 15, 46)}
+    address, h2, p {color: rgb(36, 13, 13)}
+    a {color: rgb(44, 11, 11)}
+h2 {
+   text-decoration: underline;
+}
+
+   address, h2, h1, h3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+   p {
+ font-family: 'Trebuchet MS', sans-serif;
+}
+
+
+    footer {
+    background-color: #8ec3ca;
+    color: rgb(219, 182, 139);
+    text-align: center;
+    padding: 20px;
+}
+
+        .instruction img {
+            width: 100%;
+            height: auto;
+        }
+
+          .gif-banner {
+            width: 100%;
+            overflow: hidden;
+            margin: auto;
+        }
+
+         .tip {
+            width: 49%; 
+            padding: 10px 10px 10px 10px;
+            margin: 17px 0; 
+            background-color: #88a5ad;
+            box-sizing: border-box;
+            text-align: center;
+        }
+
+        .tip-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1%;
+            justify-content: space-around;
+
+        }
+
+        h1 {
+   letter-spacing: 10px;
+   text-shadow: 1px 1px 2px rgb(210, 209, 255);
+}
+
+        h2 {
+   letter-spacing: 3px;
+
+}
+
+a:hover {
+  background-color: rgb(140, 167, 255);
+  font-size: 18px;
+}
+
